@@ -4,4 +4,4 @@
 
 ### Login do Instagram desenvolvido com HTML e CSS usando flexbox
 
-*Trabalhei algumas mudanças no tema para poder praticar o CSS*
+*Trabalhei algumas mudanças no tema para poder praticar o CSS, qualquer contribuição será muito bem aceita*
